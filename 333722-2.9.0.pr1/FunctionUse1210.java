@@ -1,0 +1,6 @@
+import com.fasterxml.jackson.databind.SequenceWriter;
+public class FunctionUse1210 {
+public void funcUse() {
+SequenceWriter sequencewriter = new SequenceWriter();
+}
+}
